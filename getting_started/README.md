@@ -9,6 +9,11 @@ C is an imperative lang which means it gives commands to the machine.
 In line 15 of the ``` first.c``` code, it is called a statement. you are telling the machine to print the following information, calling the ```printf`` function.
 
 
+```
+printf(”element %zu is %g, \tits square is %g\n”,
+i, A[i],
+A[i]*A[i]);
+```
 
 
 
