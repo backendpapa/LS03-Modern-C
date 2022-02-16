@@ -15,5 +15,11 @@ i, A[i],
 A[i]*A[i]);
 ```
 
+These printf function receives 4 arguement, which are 
+
+1. String literal, the string literal contains some markers and excape characters.
+2. output
+3. output
+4. output
 
 
